@@ -1,5 +1,5 @@
 name 'adaptavist-noconfigpkgs'
-version '0.1.7'
+version '0.1.8'
 source 'https://github.com/Adaptavist/puppet-noconfigpkgs.git'
 author 'adaptavist'
 #license 'apache2'
